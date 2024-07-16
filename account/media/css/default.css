@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color: white;
+}
+#aw {
+	align-items: center;
+	top: 75px;
+}
+#maw {
+	position: absolute;
+	display: inline-flex;
+	width: 70%;
+	top: 125px;
+	left: 15%;
+	backface-visibility: visible;
+	background-color: white;
+	border-color: teal;
+	border-style: solid;
+	border-radius: 15px;
+}
+#tximg {
+	width: 100px;
+	height: 100px;
+}
+#tx {
+	position: absolute;
+	top: 100px;
+	left: 20%;
+	padding: 10px;
+	background-color: white;
+	border-color: teal;
+	border-style: solid;
+	border-radius: 15px;
+}
+#insidemaw {
+	padding: 15px;
+}
+#describe {
+	padding-left: 60%;
+	color: #3F3F3F;
+}
+#describenr {
+	padding-left: 60%;
+	color: #3F3F3F;
+}
+#am {
+	padding-top: 80px;
+	width: 10000px;
+}
+#amf {
+	width: 100%;
+}
+#zw {
+	display: none;
+}
+@media (max-width: 768px) {
+	#maw {
+		top: 250px;
+	}
+	#tx {
+		top: 225px;
+	}
+	#describe {
+		padding-left: 15px;
+	}
+	#describenr {
+		padding-left: 15px;
+	}
+	#zw {
+		display: block;
+		padding-top: 90px;
+		padding-left: 1px;
+	}
+	#am {
+		padding-top: 5px;
+	}
+}
