@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="ALL" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2176 2176">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 384px;
+      }
+    </style>
+  </defs>
+  <g id="ALL-2" data-name="ALL">
+    <polygon id="_0" data-name="0" points="1984 640 1984 1536 1057 1088 1984 640"/>
+    <rect id="_0-2" data-name="0" x="1792" y="640" width="384" height="896" transform="translate(3968 2176) rotate(180)"/>
+    <line id="_1" data-name="1" class="cls-1" x1="1984" y1="1536" x2="1088" y2="1088"/>
+    <line id="_0-3" data-name="0" class="cls-1" x1="1984" y1="640" x2="1088" y2="1088"/>
+    <circle id="_2" data-name="2" cx="1984" cy="1536" r="192"/>
+    <circle id="_1-2" data-name="1" cx="1984" cy="640" r="192"/>
+    <circle id="_0-4" data-name="0" cx="1088" cy="1088" r="192"/>
+  </g>
+  <g id="ALL-3" data-name="ALL">
+    <polygon id="_0-5" data-name="0" points="1088 640 1088 1536 161 1088 1088 640"/>
+    <rect id="_0-6" data-name="0" x="896" y="640" width="384" height="896" transform="translate(2176 2176) rotate(180)"/>
+    <line id="_1-3" data-name="1" class="cls-1" x1="1088" y1="1536" x2="192" y2="1088"/>
+    <line id="_0-7" data-name="0" class="cls-1" x1="1088" y1="640" x2="192" y2="1088"/>
+    <circle id="_2-2" data-name="2" cx="1088" cy="1536" r="192"/>
+    <circle id="_1-4" data-name="1" cx="1088" cy="640" r="192"/>
+    <circle id="_0-8" data-name="0" cx="192" cy="1088" r="192"/>
+  </g>
+  <g id="L">
+    <rect id="_0-9" data-name="0" x="0" y="448" width="384" height="1280" rx="192" ry="192" transform="translate(384 2176) rotate(180)"/>
+  </g>
+</svg>
