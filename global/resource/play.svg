@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="ALL" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 1280">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 384px;
+      }
+    </style>
+  </defs>
+  <polygon id="_0" data-name="0" points="192 192 192 1088 1119 640 192 192"/>
+  <rect id="_0-2" data-name="0" y="192" width="384" height="896"/>
+  <line id="_1" data-name="1" class="cls-1" x1="192" y1="1088" x2="1088" y2="640"/>
+  <line id="_0-3" data-name="0" class="cls-1" x1="192" y1="192" x2="1088" y2="640"/>
+  <circle id="_2" data-name="2" cx="192" cy="1088" r="192"/>
+  <circle id="_1-2" data-name="1" cx="192" cy="192" r="192"/>
+  <circle id="_0-4" data-name="0" cx="1088" cy="640" r="192"/>
+</svg>
